@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I'm Nick Bicknell 👋
+- I'm a full-stack web developer
+- I specialize and enjoy front-end development
+- I'm currently learning REACT
+- I enjoy problem solving and creating something new and unique
 <!--
 **NickBicknell/NickBicknell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
