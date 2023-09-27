@@ -1,4 +1,4 @@
-### Hi there, I'm Nick Bicknell 👋
+### Hi there, I'm Nicholas Bicknell 👋
 - I'm a full-stack web developer
 - I specialize and enjoy front-end development
 - I'm currently learning REACT
