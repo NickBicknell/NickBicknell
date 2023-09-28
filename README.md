@@ -1,7 +1,6 @@
 ### Hi there, I'm Nicholas Bicknell 👋
-- I'm a full-stack web developer
-- I specialize and enjoy front-end development
-- I'm currently learning REACT
+- I'm a full-stack web developer 
+- I specialize in the MERN stack
 - I enjoy problem solving and creating something new and unique
 <!--
 **NickBicknell/NickBicknell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
